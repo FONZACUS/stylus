@@ -1,6 +1,6 @@
 {
   "name": "Stylus",
-  "version": "1.5.17",
+  "version": "1.5.19",
   "minimum_chrome_version": "55",
   "description": "__MSG_description__",
   "homepage_url": "https://add0n.com/stylus.html",
@@ -44,6 +44,7 @@
       "background/sync-manager.js",
       "background/tab-manager.js",
       "background/token-manager.js",
+      "background/usw-api.js",
       "background/update-manager.js",
       "background/usercss-install-helper.js",
       "background/usercss-manager.js",
